@@ -4,6 +4,10 @@
 
 In this project, i analyze a car dataset(jiji_cars) and develop an interactive dashboard to provide key insights into car prices, models, colors, and trends. My goal is to help users make data-driven decisions when purchasing or selling cars.
 
+### Dashboard
+<img width="757" height="421" alt="Screenshot 2025-07-21 105653" src="https://github.com/user-attachments/assets/dc893203-4fbb-40ef-9b15-ce0ea4f50523" />
+
+
 ### Tools
 
 - Excel - Data Cleaning
